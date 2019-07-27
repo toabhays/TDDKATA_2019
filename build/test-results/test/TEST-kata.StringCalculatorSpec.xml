@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kata.StringCalculatorSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-27T10:14:17" hostname="ECWINV13700" time="0.253">
+  <properties/>
+  <testcase name="Add given two numbers seperated by comma" classname="kata.StringCalculatorSpec" time="0.253"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
