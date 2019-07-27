@@ -10,6 +10,6 @@ public class StringCalculator {
 		 * (for an empty string it will return 0)
 		 */
 
-		//return 0;
+		return 0;
 	}
 }
